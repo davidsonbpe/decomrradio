@@ -1,5 +1,5 @@
 var Conduit=window.Conduit||{};
-Conduit.appUrl = 'http://mob.conduit.com/decomrradio?skipLanding=true';
+Conduit.appUrl = 'https://davidsonbpe.github.io/DecomRradio/mobile/1.0/';
 Conduit.prompt = 'Este site tem uma versão mobile clique em OK para exibi-lo'
 Conduit.showLanding = 4063;
 Conduit.redirectDevices = 4063;
