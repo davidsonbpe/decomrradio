@@ -1,5 +1,6 @@
 var Conduit=window.Conduit||{};
-Conduit.appUrl = 'https://github.com/davidsonbpe/DecomRradio/releases/download/v1.0/DecomRradio.apk';
+Conduit.appUrl = 'https://github.com/davidsonbpe/DecomRradio/releases/download/v1.0/DecomRradioSlim.apk';
+/*Conduit.appUrl = 'https://github.com/davidsonbpe/DecomRradio/releases/download/v1.0/DecomRradio.apk';*/
 Conduit.prompt = 'Este site tem uma versão mobile clique em OK para exibi-lo'
 Conduit.showLanding = 4063;
 Conduit.redirectDevices = 4063;
