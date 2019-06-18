@@ -1,2 +1,2 @@
 # DecomRradio
-https://github.com/davidsonbpe/DecomRradio/releases/tag/v1.0
+https://davidsonbpe.github.io/DecomRradio/mobile/apk/
