@@ -1,5 +1,5 @@
 var Conduit=window.Conduit||{};
-Conduit.appUrl = 'https://decomrradio.herokuapp.com/';
+Conduit.appUrl = 'https://decomrradio.web.app/?web';
 Conduit.prompt = 'Este site tem uma versão mobile clique em OK para exibi-lo'
 Conduit.showLanding = 4063;
 Conduit.redirectDevices = 4063;
